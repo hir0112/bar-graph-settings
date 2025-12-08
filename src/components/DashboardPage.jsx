@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useCallback } from 'react';
 import { GraphContainer } from './GraphContainer';
-import fullData from '../data_1.json';
+import fullData from '../sample_data.json';
 import { filterDataByYears } from '../utils/dataFilters';
 import { saveGraphSettings } from '../utils/storageUtils';
 

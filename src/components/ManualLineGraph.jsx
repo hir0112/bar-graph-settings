@@ -338,5 +338,3 @@ export const ManualLineGraph = ({ data, height = 500, width, convertValue=false,
         </ResponsiveContainer>
     );
 };
-
-// export default ManualLineGraph;
